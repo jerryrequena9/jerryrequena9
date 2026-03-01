@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on finishing my Computer Science Bachelor's Degree
+- 🔭 I’m currently working on finishing my Computer Science Bachelor's Degree - May 2026
 - 🌱 I’m currently learning Database and Data Science technologies
 - 👯 I’m looking to collaborate on Data Engineering and Data Architecture projects
 - 🤔 I’m looking for help with how to implement full stack systems related to data science projects
